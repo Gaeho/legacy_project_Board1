@@ -28,7 +28,7 @@
 			</tr>
 			<tr>
 				<td> 제목 </td>
-				<td><input type="text" name="bTitle" value="답변" + " ${reply_view.bTitle}"></td>
+				<td><input type="text" name="bTitle" value="[답변]${reply_view.bTitle}"></td>
 			</tr>
 			<tr>
 				<td> 내용 </td>
